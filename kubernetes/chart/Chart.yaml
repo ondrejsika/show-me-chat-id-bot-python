@@ -1,0 +1,4 @@
+apiVersion: v2
+name: show-me-chat-id-bot-python
+type: application
+version: 0.0.0
