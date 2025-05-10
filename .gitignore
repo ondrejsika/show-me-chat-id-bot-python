@@ -16,3 +16,4 @@
 *.local.yaml
 *.local.json
 *.local.txt
+.env
